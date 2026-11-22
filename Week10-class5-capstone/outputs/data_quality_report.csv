@@ -1,0 +1,4 @@
+well_id,cleaned_rows,duplicates_removed_total,missing_oil,missing_water,missing_gas,missing_pressure,total_gap_count
+WELL-A,16,1,1,1,1,0,4
+WELL-B,16,1,1,1,1,0,4
+WELL-C,16,1,2,2,2,0,4

@@ -1,0 +1,2 @@
+well_id,timestamp,oil_bbl,water_bbl,gas_mscf,pressure_psi,status,ingested_at,rejection_reason
+WELL-A,not-a-date,100,50,200,1500,PRODUCING,2026-11-05 08:00:00,invalid_timestamp: unparseable timestamp value
